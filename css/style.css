@@ -512,7 +512,7 @@ mr-10 {
 /* ================= */
 .td-header {
   background-color: #f9f9f9;
-  padding: 15px 0 30px;
+  padding: 0px 0 30px;
   -webkit-transition: 0.5s cubic-bezier(0.55, 0, 0.1, 1) 0s;
   transition: 0.5s cubic-bezier(0.55, 0, 0.1, 1) 0s;
   /* logo */
