@@ -655,7 +655,7 @@ mr-10 {
   left: 0;
   width: 100%;
   z-index: 1050;
-  background-color: rgba(53, 112, 199, 0.9);
+  background-color: transparent;
   padding: 0 0 0 0; }
 
 .logo-active .logo-link .logo-main {
